@@ -1,4 +1,3 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+[DEMO LINK](https://meg-sowka.github.io/the_MET/)
+
+Landing page for The MET, based on provided [Figma DESIGN](https://www.figma.com/file/KgtxxWy9nJayOqWi5md4Qg/THE-MET-2).
